@@ -1,5 +1,5 @@
-# Find the GCD of two numbers
-
+# EX 2a: Find the GCD of two numbers
+## DATE: 29.08.23
 ## AIM:
 To write a program to find the GCD of two numbers using function.
 
